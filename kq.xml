@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <id>01</id>
+        <name>Nguyen van a</name>
+        <address>hcm</address>
+        <age>18</age>
+        <sum>7</sum>
+        <isDigit>false</isDigit>
+    </student>
+      </students>
